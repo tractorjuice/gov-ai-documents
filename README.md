@@ -1,6 +1,3 @@
-# gov-ai-documents
-awesome-gov-ai-documents
-
 | **Organization**                      | **Document Title**                                                                 | **Link**                                                                                                                                                                 |
 |---------------------------------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **NCSC**                              | Artificial Intelligence Guidance                                                  | [Artificial Intelligence Guidance](https://www.ncsc.gov.uk/section/advice-guidance/all-topics?allTopics=true&topics=artificial%20intelligence&sort=date%2Bdesc)       |
@@ -12,5 +9,4 @@ awesome-gov-ai-documents
 |                                       | Establishing a Pro-Innovation Approach to Regulating AI                           | [Establishing a Pro-Innovation Approach to Regulating AI](https://www.gov.uk/government/publications/establishing-a-pro-innovation-approach-to-regulating-ai)         |
 | **NHS**                               | The NHS AI Lab - Accelerating the Safe Adoption of Artificial Intelligence in Health and Care | [The NHS AI Lab](https://transform.england.nhs.uk/ai-lab/)                                                                                                             |
 |                                       | AI Regulation - Improving the Regulatory Approval Process and Building Trust in Robust Standards | [AI Regulation](https://transform.england.nhs.uk/ai-lab/ai-lab-programmes/regulating-the-ai-ecosystem/)                                                              |
-
-
+|                                       | Artificial Intelligence: How to Get It Right                                      | [Artificial Intelligence: How to Get It Right](https://transform.england.nhs.uk/media/documents/NHSX_AI_report.pdf)                                                   |
